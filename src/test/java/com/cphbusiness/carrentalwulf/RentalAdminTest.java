@@ -29,7 +29,7 @@ public class RentalAdminTest {
 		myCarFactory = new CarFactory();
 		filename = "ncars4.csv";
 //		filename = "/Users/thor/NetBeansProjects/CarRentalWulf/src/main/java/com/cphbusiness/carrentalwulf/ncars4.csv";
-		filename = "/var/lib/jenkins/workspace/CarRentalWulf/src/main/java/com/cphbusiness/carrentalwulf/ncars4.csv";
+		filename = "C:\\Users\\Mathias\\Desktop\\CarRentalWulf\\src\\main\\java\\com\\cphbusiness\\carrentalwulf\\ncars4.csv";
 
 	}
 
