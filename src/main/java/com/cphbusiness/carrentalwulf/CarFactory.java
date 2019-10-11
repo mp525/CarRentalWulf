@@ -15,7 +15,7 @@ public class CarFactory {
 
 	public HashMap<String, Car> createCarsFromFile(String filename) throws FileNotFoundException {
 		// public Car(String make, String model, String type, int length, int weight)
-		// Audi;A4 1.8T 4dr;4;170;22;31;3252;104
+		// Audi;A4 1.8T 4dr;4;170;22;31;3252;104.
 		
 
 		File fh = new File(filename);

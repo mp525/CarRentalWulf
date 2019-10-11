@@ -7,7 +7,7 @@ package com.cphbusiness.carrentalwulf;
 
 /**
  *
- * @author thor
+ * @author thor.
  */
 public class Customer {
 	
