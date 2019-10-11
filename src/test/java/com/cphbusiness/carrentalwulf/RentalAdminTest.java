@@ -25,7 +25,7 @@ public class RentalAdminTest {
 	
 	@Before
 	public void setUp() {
-		rentalAdmin = new RentalAdmin("kurt");
+		rentalAdmin = new RentalAdmin("Kurt");
 		myCarFactory = new CarFactory();
 		filename = "ncars4.csv";
 //              filename = "/Users/thor/NetBeansProjects/CarRentalWulf/src/main/java/com/cphbusiness/carrentalwulf/ncars4.csv";
